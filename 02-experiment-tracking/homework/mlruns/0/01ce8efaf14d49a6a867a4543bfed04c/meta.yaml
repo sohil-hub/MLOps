@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedsohilshaikh/Desktop/mlops/02-experiment-tracking/homework/mlruns/0/01ce8efaf14d49a6a867a4543bfed04c/artifacts
+end_time: 1654146204544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 01ce8efaf14d49a6a867a4543bfed04c
+run_uuid: 01ce8efaf14d49a6a867a4543bfed04c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654146196654
+status: 3
+tags: []
+user_id: mohammedsohilshaikh
